@@ -1,1 +1,1 @@
-# Leibniz
+# Stat 624
